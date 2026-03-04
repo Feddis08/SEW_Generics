@@ -92,6 +92,8 @@ public class Stack<T> {
 
     /**
      * Lists all elements from bottom to top separated by semicolons.
+     * 
+     * 
      *
      * @return stack content as a semicolon-separated string
      */
